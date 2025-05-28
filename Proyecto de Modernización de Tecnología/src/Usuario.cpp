@@ -1,4 +1,4 @@
-//Luis Valenzuela 9959-24-12583, funcionalidad CRUD usuarios
+//Kevin Lopez 9959-24-3309, funcionalidad CRUD usuarios
 #include "Usuario.h"
 #include <fstream>
 #include <cstdlib>
