@@ -10,8 +10,7 @@
 #include<vector>
 #include<sstream>
 #include<cstring>
-//bitacora por Ferdynand Monroy 9959-24-14049
-//inicio de bitacora abril 2025
+//bitacora por Kevin López 9959-24-3309
 using namespace std;
 
 void bitacora::menu()
