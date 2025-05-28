@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1748449791 source:c:\users\usuario\documents\progra\programación 1\prototipoefp12025\proyecto de modernización de tecnología\src\bitacora.cpp
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<algorithm>
+	<ctime>
+	<vector>
+	<sstream>
+	<cstring>
+
+1748448741 c:\users\usuario\documents\progra\programación 1\prototipoefp12025\proyecto de modernización de tecnología\include\bitacora.h
+	<iostream>
+
+1748450600 source:c:\users\usuario\documents\progra\programación 1\prototipoefp12025\proyecto de modernización de tecnología\src\usuario.cpp
+	"Usuario.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	<sstream>
+	"Bitacora.h"
+	<vector>
+	<cstring>
+
+1748449008 c:\users\usuario\documents\progra\programación 1\prototipoefp12025\proyecto de modernización de tecnología\include\usuario.h
+	<string>
+
+1748450640 source:c:\users\usuario\documents\progra\programación 1\prototipoefp12025\proyecto de modernización de tecnología\main.cpp
+	<iostream>
+	<fstream>
+	"Usuario.h"
+	"Bitacora.h"
+
